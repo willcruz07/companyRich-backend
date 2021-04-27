@@ -1,0 +1,28 @@
+Cadastro empresa
+id, nome, CNPJ, Demanda: valor, sobre,
+
+Faturamento Anual: 
+Até 10KK
+de 10 a 50kk
+de 20 a 200kk
+de 200 a 500kk
+acima de 500kk
+
+Cadastro de usuário
+id, nome, email, password
+
+listar empresas.
+exibir dados da empresa.
+cadastrar empresa.
+editar empresa.
+deletar empresa.
+
+Lista de tipo de faturamento.
+Até 10KK
+de 10 a 50kk
+de 20 a 200kk
+de 200 a 500kk
+acima de 500kk
+
+autenticação de usuario JWT.
+
