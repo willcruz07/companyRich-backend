@@ -1,0 +1,15 @@
+{
+  "type": "postgres",
+  "hots": "localhost",
+  "port": 5432,
+  "username": "postgres",
+  "password": "brbatel123",
+  "database": "brbatel",
+  "entities": ["./src/modules/**/typeorm/entity/*.ts"],
+  "migrations": [
+    "./src/shared/typeorm/migrations/*.ts"
+  ],
+  "cli": {
+    "migrationsDir": "./src/shared/typeorm/migrations"
+  }
+}
